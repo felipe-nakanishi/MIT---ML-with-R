@@ -1,5 +1,7 @@
 ## Predicting Loan Repayment
 
+This is an project regarding linear regression in R that i adapted from the MIT's course "the analytics edge".
+
 In the lending industry, investors provide loans to borrowers in exchange for 
 the promise of repayment with interest. If the borrower repays the loan, then 
 the lender profits from the interest. However, if the borrower is unable to 
