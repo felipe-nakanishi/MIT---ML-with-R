@@ -1,6 +1,6 @@
 ## FORECASTING ELANTRA SALES
 
-This is an project regarding linear regression in R that i made for the MIT's course "the analytics edge".
+This is an project regarding linear regression in R that i adapted from the MIT's course "the analytics edge".
 
 An important application of linear regression is understanding sales. Consider 
 a company that produces and sells a product. In a given period, if the company 
